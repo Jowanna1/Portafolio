@@ -2,7 +2,10 @@
   "name": "vuecli",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Jowanna1.github.io/PortafolioJF",
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
