@@ -2,7 +2,7 @@
   "name": "vuecli",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Jowanna1.github.io/PortafolioJF",
+  "homepage": "http://jowanna1.github.io/Portafolio",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d dist",
