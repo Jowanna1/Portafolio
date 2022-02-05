@@ -1,9 +1,9 @@
 {
   "name": "vuecli",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://jowanna1.github.io/Portafolio",
-  "scripts": {
+  "private": false,
+  "homepage": "https://jowanna1.github.io/Portafolio/",
+    "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d dist ",
     "serve": "vue-cli-service serve",
